@@ -23,8 +23,8 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
+- Nombre del proyecto: Desafio de videojuegos
+- Objetivo: Practica de lo aprendido
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 - Historia
 - Personajes
@@ -35,7 +35,7 @@
 ## Código Fuente
 
 * Lección 1
-  * > Desafío
+  * > Desafío (https://github.com/Nayelipadron24/Desafios/blob/main/NJPV_Desafio1.unitypackage)
 
 
 * VideoJuego
